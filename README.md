@@ -1,4 +1,4 @@
-#Hi Everyone 👋, I'am Igo Tegar Prambudhy
+<h1>Hi Everyone 👋, I'am Igo Tegar Prambudhy</h1>
 
 - 👋 Hi, I’m @hiIgooTgar
 - 👀 I’m interested in ...
