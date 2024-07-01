@@ -1,4 +1,4 @@
-<h1>Hi Everyone 👋, I'am <span style='color: blue'>Igo Tegar Prambudhy</span></h1>
+<h1>Hi Everyone 👋, I'am Igo Tegar Prambudhy</h1>
 
 - 👋 Hi, I’m @hiIgooTgar
 - 👀 I’m interested in ...
