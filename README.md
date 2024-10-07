@@ -1,8 +1,6 @@
 <h1 align="center">Hi Everyone 👋, I'am Igo Tegar Prambudhy</h1>
 
-- 👀 I am interested in technology
-- 🌱 I’m currently learning Fullstack Developer
-- 💞️ I want to collaborate in a team
+- 👀 I am interested in Technology
 - 😄 Pronouns: He/Him
 
 <br/>  
