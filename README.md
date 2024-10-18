@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everyone 👋, I'am Igo Tegar Prambudhy</h1>
-<center><img src="https://komarev.com/ghpvc/?username=hiigootgar&style=flat-square&color=blue" alt=""/></center>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=hiigootgar&style=flat-square&color=blue" alt=""/></p>
 
 <p align="left">
 <h2>Connect With Me </h2>
