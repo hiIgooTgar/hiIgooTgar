@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everyone 👋, I'am Igo Tegar Prambudhy</h1>
-
+<img src="https://komarev.com/ghpvc/?username=hiigootgar&style=flat-square&color=blue" alt=""/>
 <br/>  
 
 <p align="left">
