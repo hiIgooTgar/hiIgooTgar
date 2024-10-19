@@ -15,9 +15,9 @@
 
 <br/>  
 
-![hiigootgar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiigootgar&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 ![hiigootgar's Stats](https://github-readme-stats.vercel.app/api?username=hiigootgar&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 ![hiigootgar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiigootgar&theme=algolia&hide_border=true)
+![hiigootgar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiigootgar&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
 
 
