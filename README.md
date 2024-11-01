@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋, I'am Igo Tegar Prambudhy</h1>
+<h1 align="center">Hii.. 👋, I'am Igo Tegar Prambudhy</h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=hiigootgar&style=flat-square&color=blue" alt=""/></p>
 
 <p align="left">
