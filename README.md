@@ -11,9 +11,9 @@
 <br/>  
 <h2>Github Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiigootgar&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiigootgar&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 ![hiigootgar's Stats](https://github-readme-stats.vercel.app/api?username=hiigootgar&theme=react&show_icons=true&hide_border=true&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hiigootgar&theme=react)](https://git.io/streak-stats)
+![hiigootgar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiigootgar&theme=react&hide_border=true)
 
 
 
